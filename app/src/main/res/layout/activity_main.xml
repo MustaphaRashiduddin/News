@@ -25,22 +25,3 @@
         android:layout_centerInParent="true"/>
     </RelativeLayout>
 </LinearLayout>
-    <!--android:id="@+id/my_toolbar"-->
-    <!--android:layout_width="match_parent"-->
-    <!--android:layout_height="wrap_content"-->
-    <!--android:minHeight="?attr/actionBarSize"-->
-    <!--android:background="?attr/colorPrimary"-->
-    <!--android:elevation="4dp"
-        android:theme=@style/AppTheme"
-        app:popupTheme="@style/AppTheme"
-     >-->
-<!--<SearchView  android:id="@+id/searchview"-->
-<!--android:layout_width="match_parent"-->
-<!--android:layout_height="wrap_content"-->
-<!--android:imeOptions="flagNoExtractUi"-->
-<!--android:background="#FFFFFF"-->
-<!--android:iconifiedByDefault="false"-->
-    <!--/>-->
-    <!--</android.support.v7.widget.Toolbar>-->
-
-    <!--android:iconifiedByDefault="false"-->

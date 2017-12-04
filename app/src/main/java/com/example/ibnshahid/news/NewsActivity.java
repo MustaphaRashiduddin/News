@@ -74,6 +74,7 @@ public class NewsActivity extends AppCompatActivity implements LoaderManager.Loa
     @Override
     protected void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
+        Toast.makeText(this, "hello", Toast.LENGTH_SHORT).show();
         outState.putInt("page", page);
     }
 
